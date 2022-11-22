@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @dankey-xd69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cracking 
+- 🌱 I’m currently learning web3
+- 💞️ I’m looking to collaborate on Microsoft 
 - 📫 How to reach me ...
+Dekum#0690 
 
-<!---
-dankey-xd69/dankey-xd69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
